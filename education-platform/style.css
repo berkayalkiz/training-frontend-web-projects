@@ -24,7 +24,7 @@ a{
 }
 
 header{
-    background-color: #485166;
+    background-color: #273450;
     color: white;
     padding: 0 0;
     font-style: bold;
@@ -56,13 +56,18 @@ nav ul li:hover{
 }
 
 main{
-    background-color: #c7d5f7;
+    background-color: #dddddd;
     padding : 20px 0;
 }
 
 .hero{
     text-align: center;
     padding: 40px 0;
+}
+
+.hero-state p{
+    font-size: 1.2em;
+    color:  #273450;
 }
 
 .btn-hero-start{
@@ -86,10 +91,11 @@ main{
 }
 
 .btn-hero-start:hover a{
-    color: rgb(41, 41, 41);
+    color:  white;
+
 }
 .hero-header{
-    color: #485166;
+    color:  #273450;
 }
 
 .course-items{
@@ -113,6 +119,7 @@ main{
 
 .course-item:hover{
     border: 1px solid #485166;
+    
 }
 
 .course-image img{
@@ -131,7 +138,7 @@ main{
 }
 
 footer{
-    background-color: #485166;
+    background-color: #273450;
     color: white;
     padding: 20px 0;
     text-align: center;
